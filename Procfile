@@ -1,2 +1,1 @@
-web: java $JAVA_OPTS -cp target/classes:target/dependency/* pt.brunofilipe.backendcarril
-web: bundle exec bin/rails server -p $PORT -e $RAILS_ENV
+web: java -Xmx1024m -jar target/backend-carril-0.0.1-SNAPSHOT.jar
