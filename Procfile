@@ -1,1 +1,1 @@
-web: java -Xmx1024m -jar target/backend-carril-0.0.1-SNAPSHOT.jar
+web: java -Dserver.port=$PORT -Xmx1024m -jar target/backend-carril-0.0.1-SNAPSHOT.jar
