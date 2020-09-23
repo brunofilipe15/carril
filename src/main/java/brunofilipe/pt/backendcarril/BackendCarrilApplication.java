@@ -9,5 +9,4 @@ public class BackendCarrilApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(BackendCarrilApplication.class, args);
 	}
-
 }
