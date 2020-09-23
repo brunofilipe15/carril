@@ -1,1 +1,1 @@
-web: java -jar target/backend-carril-0.0.1-SNAPSHOT.jar --spring.datasource.url=jdbc:postgresql://ec2-54-204-26-236.compute-1.amazonaws.com:5432/dbm449cds88u3f --spring.datasource.username=ofukylfwqltcii --spring.datasource.password=1b31c3f7fb6b273ffb4a44204e0318dd03278b4fb2218a0b59f1dc070132636f
+web: java -jar target/backend-carril-0.0.1-SNAPSHOT.jar
